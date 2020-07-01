@@ -171,10 +171,10 @@
             },
             "P": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#1e1e1e"
             },
             "H2": {
-              "color": "#ffffff"
+              "color": "#1e1e1e"
             }
           },
           "_name": "extHeader8",
